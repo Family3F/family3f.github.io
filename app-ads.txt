@@ -1,3 +1,4 @@
 inmobi.com, 75fdddd4760e4b49b01339303605ea0d, DIRECT, 83e75a7ae333ca9d
 facebook.com, 243850214762259, DIRECT, f08c47fec0942fa0
 tradplus.com, UID-55091706-af82-4b75-b2a6-ac04dcc23711, DIRECT
+google.com, pub-8225539509696899, DIRECT, f08c47fec0942fa0
