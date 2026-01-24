@@ -16,6 +16,11 @@ conversantmedia.com, 40881, RESELLER, 03113cd04947736d
 bidmachine.io, 100, RESELLER
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
 facebook.com, 243850214762259, DIRECT, f08c47fec0942fa0
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
+taurusx.com, 80040, RESELLER
+rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+conversantmedia.com, 100358, RESELLER, 03113cd04947736d
 tradplus.com, UID-55091706-af82-4b75-b2a6-ac04dcc23711, DIRECT
 google.com, pub-8225539509696899, DIRECT, f08c47fec0942fa0
 MANAGERDOMAIN=tradplusad.com
